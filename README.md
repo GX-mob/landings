@@ -1,0 +1,2 @@
+# landings
+GX landing pages
